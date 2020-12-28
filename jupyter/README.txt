@@ -9,6 +9,8 @@ jupyter notebook
 ## sqlite3.dll từ thư mục Library sang thư mục DLLs. Hướng dẫn xử lý lỗi như bên dưới 
 ## https://stackoverflow.com/questions/54346965/running-jupyter-notebook-from-cmd-raises-modulenotfounderror-no-module-named-py
 
+## tham khảo link github cho source code 
+## https://github.com/diegogslomp/python-mega-course
 
 
 
